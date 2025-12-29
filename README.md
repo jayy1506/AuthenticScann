@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AuthentiScan - AI Image Authenticity Detector
 
 AuthentiScan is a full-stack web application that classifies user-uploaded images as either AI Generated or Original/Real using a DenseNet deep learning model.
@@ -201,3 +202,7 @@ To properly train the model for distinguishing AI-generated from real images:
 ## 📄 License
 
 This project is for educational purposes and demonstrates a full-stack application with machine learning integration.
+=======
+# AuthenticScann
+"AI Generated Image Detector"
+>>>>>>> f87ad9cb2f29b85aa0a95469592faec282a9ce6d
